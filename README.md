@@ -110,8 +110,6 @@ The MVC architecture provides several advantages:
 
 ## Laravel Routing
 
-![Routeweb](screenshots/routesweb.png.png)
-
 **What is Routing?**
 
 Routing is the process of determining which part of an application should handle a user's request. In Laravel, routes are commonly defined inside the routes/web.php file.
@@ -131,20 +129,9 @@ A GET request is commonly used when a user wants to retrieve or display informat
 - **Second argument** (`[CompanyController::class, 'home']`) – An array specifying the controller class and method to call when the route is matched
 - **`->name('home')`** – Assigns a named route, allowing us to reference it in Blade templates using `route('home')`
 
-### Route Table
-
-| HTTP Method | URL Path | Controller Method | Route Name | Description |
-|-------------|----------|-------------------|------------|-------------|
-| GET | `/` | `home()` | `home` | Home page |
-| GET | `/about` | `about()` | `about` | About page |
-| GET | `/services` | `services()` | `services` | Services page |
-| GET | `/contact` | `contact()` | `contact` | Contact page |
-
 ---
 
 ## Controllers
-
-![Controllers](screenshots/Controllers.png.png)
 
 **Purpose of Controllers**
 
@@ -377,6 +364,7 @@ Overall, this project improved my understanding of Laravel and modern web applic
 ---
 
 ## Linkedin Post 
+https://www.linkedin.com/feed/update/urn:li:activity:7494277766461440000/
 
 
 ## References
