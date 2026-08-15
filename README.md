@@ -192,6 +192,8 @@ Footer
 
 Individual pages can then reuse this layout instead of repeating the same HTML code.
 
+![alt text](<screenshots/Blade Layouts.png>)
+
 **Blade Components**
 
 Blade components are reusable pieces of a website interface. They can be used for elements such as navigation bars, buttons, cards, and footers.
@@ -245,6 +247,12 @@ For example:
 
 This can be used to include a reusable navigation bar.
 
+![alt text](<screenshots/Blade Components.png>)
+
+![alt text](screenshots/Extends.png)
+
+![alt text](screenshots/Yield.png)
+
 ---
 
 ## Laravel Folder Structure
@@ -270,21 +278,28 @@ This can be used to include a reusable navigation bar.
 **Home Page**
 
 About page
+![alt text](screenshots/About.png)
 
 Services Page
+![alt text](screenshots/Services.png)
 
 Contact Page
+![alt text](screenshots/Contact.png)
 
 Navigation Bar
+![alt text](<screenshots/Navigation Bar.png>)
 
 Footer
+![alt text](screenshots/Footer.png)
 
 Route Definitions
+![alt text](<screenshots/Routes Definition.png>)
 
 Controller
+![alt text](<Company Controller.png>)
 
 Blade Layout
-
+![alt text](<screenshots/Blade Layouts.png>)
 
 ---
 
@@ -361,21 +376,15 @@ Overall, this project improved my understanding of Laravel and modern web applic
 
 ---
 
-## Architecture Diagram
+## Linkedin Post 
 
-![ArchitecturedDiagram](screenshots/architecturediagram.png.png)
-
-## Linkedin Post Published
-https://www.linkedin.com/feed/update/urn:li:share:7493721586693230592/
 
 ## References
 
 - Laravel Documentation. (n.d.). *Routing*. https://laravel.com/docs/routing
 - Laravel Documentation. (n.d.). *Controllers*. https://laravel.com/docs/controllers
 - Laravel Documentation. (n.d.). *Blade Templates*. https://laravel.com/docs/blade
-- Laravel Documentation. (n.d.). *Request Lifecycle*. https://laravel.com/docs/lifecycle
+- Tailwind CSS Documentation. (n.d.). *Utility-First CSS Framework*. https://tailwindcss.com/docs
+- Google Fonts. (n.d.). *Inter Font Family*. https://fonts.google.com/specimen/Inter
 - PHP Documentation. (n.d.). *PHP Manual*. https://www.php.net/docs.php
 - MDN Web Docs. (n.d.). *HTML, CSS, and JavaScript Reference*. https://developer.mozilla.org/
-- Tailwind CSS Documentation. (n.d.). *Utility-First CSS Framework*. https://tailwindcss.com/docs
-- Font Awesome. (n.d.). *Icon Library*. https://fontawesome.com/
-- Google Fonts. (n.d.). *Inter Font Family*. https://fonts.google.com/specimen/Inter
