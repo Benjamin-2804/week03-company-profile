@@ -367,6 +367,11 @@ Overall, this project improved my understanding of Laravel and modern web applic
 https://www.linkedin.com/feed/update/urn:li:activity:7494277766461440000/
 
 
+## Architecture Diagram
+
+![Architecture Diagram](documentation/Diagram.png)
+
+
 ## References
 
 - Laravel Documentation. (n.d.). *Routing*. https://laravel.com/docs/routing
