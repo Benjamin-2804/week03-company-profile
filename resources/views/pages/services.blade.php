@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Services — NovaTech')
+@section('title', 'Services — TechCore')
 
 @section('content')
 
@@ -44,7 +44,7 @@
     <section class="py-20 px-4 bg-neutral-50">
         <div class="max-w-6xl mx-auto">
             <div class="text-center mb-12">
-                <h2 class="text-3xl font-bold text-neutral-900 mb-3">Why Choose NovaTech?</h2>
+                <h2 class="text-3xl font-bold text-neutral-900 mb-3">Why Choose TechCore?</h2>
                 <p class="text-neutral-700 max-w-xl mx-auto leading-relaxed">
                     We don't just deliver projects — we build partnerships that last.
                 </p>

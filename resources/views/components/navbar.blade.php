@@ -4,7 +4,7 @@
 
             {{-- Brand --}}
             <a href="{{ route('home') }}" class="text-xl font-bold text-primary-700 tracking-tight">
-                NovaTech
+                TechCore
             </a>
 
             {{-- Desktop nav links --}}

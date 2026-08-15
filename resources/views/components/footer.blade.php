@@ -4,9 +4,9 @@
 
             {{-- Brand & About --}}
             <div>
-                <h3 class="text-xl font-bold mb-3">NovaTech</h3>
+                <h3 class="text-xl font-bold mb-3">TechCore</h3>
                 <p class="text-primary-200 text-sm leading-relaxed">
-                    Delivering innovative technology solutions that empower businesses to grow, adapt, and lead in the digital age.
+                    Delivering innovative technology solutions that empower Filipino businesses to grow, adapt, and lead in the digital age.
                 </p>
             </div>
 
@@ -16,15 +16,15 @@
                 <ul class="space-y-2 text-primary-200 text-sm">
                     <li class="flex items-start gap-2">
                         <span>📍</span>
-                        <span>123 Innovation Drive, Tech City, TC 10101</span>
+                        <span>12F BGC One Tower, 32nd Street, Bonifacio Global City, Taguig, Metro Manila</span>
                     </li>
                     <li class="flex items-center gap-2">
                         <span>✉️</span>
-                        <span>hello@novatech.io</span>
+                        <span>hello@techcore.ph</span>
                     </li>
                     <li class="flex items-center gap-2">
                         <span>📞</span>
-                        <span>+1 (555) 987-6543</span>
+                        <span>+63 (2) 8888-1234</span>
                     </li>
                 </ul>
             </div>
@@ -33,7 +33,7 @@
             <div>
                 <h4 class="text-base font-semibold mb-3 text-primary-100">Follow Us</h4>
                 <div class="flex gap-4">
-                    <a href="https://linkedin.com/company/novatech"
+                    <a href="https://linkedin.com/company/techcore-ph"
                        target="_blank"
                        rel="noopener noreferrer"
                        class="text-primary-200 hover:text-white transition-colors duration-150"
@@ -42,7 +42,7 @@
                             <path d="M20.447 20.452H17.21v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.985V9h3.102v1.561h.046c.432-.818 1.487-1.681 3.061-1.681 3.274 0 3.878 2.155 3.878 4.958v6.614zM5.337 7.433a1.8 1.8 0 1 1 0-3.601 1.8 1.8 0 0 1 0 3.601zM6.919 20.452H3.752V9h3.167v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
                         </svg>
                     </a>
-                    <a href="https://twitter.com/novatech"
+                    <a href="https://twitter.com/techcore_ph"
                        target="_blank"
                        rel="noopener noreferrer"
                        class="text-primary-200 hover:text-white transition-colors duration-150"
@@ -51,7 +51,7 @@
                             <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
                         </svg>
                     </a>
-                    <a href="https://instagram.com/novatech"
+                    <a href="https://instagram.com/techcore_ph"
                        target="_blank"
                        rel="noopener noreferrer"
                        class="text-primary-200 hover:text-white transition-colors duration-150"
@@ -66,7 +66,7 @@
 
         {{-- Bottom bar --}}
         <div class="border-t border-primary-700 mt-10 pt-6 text-center text-primary-300 text-sm">
-            &copy; {{ date('Y') }} NovaTech. All rights reserved.
+            &copy; {{ date('Y') }} TechCore. All rights reserved.
         </div>
     </div>
 </footer>

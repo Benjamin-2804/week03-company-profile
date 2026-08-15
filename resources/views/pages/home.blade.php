@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Home — NovaTech')
+@section('title', 'Home — TechCore')
 
 @section('content')
 
@@ -27,7 +27,8 @@
                 <div>
                     <h2 class="text-3xl font-bold text-neutral-900 mb-4">Who We Are</h2>
                     <p class="text-neutral-700 text-base leading-relaxed mb-4">
-                        NovaTech is a forward-thinking technology company founded with a mission to make cutting-edge digital solutions accessible to businesses of all sizes.
+                    <p class="text-neutral-700 text-base leading-relaxed mb-4">
+                        TechCore is a forward-thinking Philippine technology company founded with a mission to make cutting-edge digital solutions accessible to businesses of all sizes across the Philippines.
                     </p>
                     <p class="text-neutral-700 text-base leading-relaxed">
                         With a team of passionate engineers, designers, and strategists, we partner with our clients to deliver products that are not only functional but transformative.
@@ -97,7 +98,7 @@
         <div class="max-w-2xl mx-auto">
             <h2 class="text-3xl font-bold mb-4">Ready to Start Your Project?</h2>
             <p class="text-primary-100 text-lg mb-8 leading-relaxed">
-                Let's talk about how NovaTech can help bring your vision to life.
+                Let's talk about how TechCore can help bring your vision to life.
             </p>
             <a href="{{ route('contact') }}"
                class="inline-block bg-white text-primary-700 font-semibold px-8 py-3 rounded-lg hover:bg-primary-50 transition-colors duration-150 text-lg">

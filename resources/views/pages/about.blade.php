@@ -1,13 +1,13 @@
 @extends('layouts.app')
 
-@section('title', 'About — NovaTech')
+@section('title', 'About — TechCore')
 
 @section('content')
 
     {{-- Page Hero --}}
     <section class="bg-primary-900 text-white py-16 px-4">
         <div class="max-w-6xl mx-auto text-center">
-            <h1 class="text-4xl md:text-5xl font-bold mb-4">About NovaTech</h1>
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">About TechCore</h1>
             <p class="text-primary-200 text-lg max-w-2xl mx-auto leading-relaxed">
                 Learn who we are, what drives us, and the people behind the work.
             </p>
@@ -21,17 +21,17 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
                 <div>
                     <p class="text-neutral-700 text-base leading-relaxed mb-4">
-                        NovaTech was founded in 2016 by a group of software engineers who believed that great technology should be within reach for every business — not just large enterprises.
+                        TechCore was founded in 2016 by a group of Filipino software engineers who believed that great technology should be within reach for every business — not just large enterprises.
                     </p>
                     <p class="text-neutral-700 text-base leading-relaxed">
-                        What started as a small web development studio in a shared co-working space has grown into a full-service technology company with over 50 professionals serving clients across 15 countries.
+                        What started as a small web development studio in a Makati co-working space has grown into a full-service technology company with over 50 professionals serving clients across the Philippines and Southeast Asia.
                     </p>
                 </div>
                 <div class="bg-primary-50 rounded-2xl p-8">
                     <div class="space-y-4">
                         <div class="flex items-start gap-4">
                             <span class="text-primary-600 font-bold text-sm w-12 shrink-0">2016</span>
-                            <p class="text-neutral-700 text-sm">Founded with a team of 5 engineers in Tech City.</p>
+                            <p class="text-neutral-700 text-sm">Founded with a team of 5 engineers in Makati, Manila.</p>
                         </div>
                         <div class="flex items-start gap-4">
                             <span class="text-primary-600 font-bold text-sm w-12 shrink-0">2018</span>
@@ -43,7 +43,7 @@
                         </div>
                         <div class="flex items-start gap-4">
                             <span class="text-primary-600 font-bold text-sm w-12 shrink-0">2024</span>
-                            <p class="text-neutral-700 text-sm">Reached 200+ projects delivered across 15 countries.</p>
+                            <p class="text-neutral-700 text-sm">Reached 200+ projects delivered across the Philippines and Southeast Asia.</p>
                         </div>
                     </div>
                 </div>
@@ -119,7 +119,7 @@
             <div class="text-center mb-12">
                 <h2 class="text-3xl font-bold text-neutral-900 mb-3">Meet the Team</h2>
                 <p class="text-neutral-700 max-w-xl mx-auto leading-relaxed">
-                    The talented people who make NovaTech what it is.
+                    The talented people who make TechCore what it is.
                 </p>
             </div>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -132,7 +132,7 @@
                     <h3 class="text-lg font-semibold text-neutral-900">Marcus Reid</h3>
                     <p class="text-primary-600 text-sm font-medium mt-1">Chief Executive Officer</p>
                     <p class="text-neutral-700 text-sm mt-3 leading-relaxed">
-                        Visionary leader with 15+ years in tech, driving NovaTech's strategy and growth.
+                        Visionary leader with 15+ years in tech, driving TechCore's strategy and growth across the Philippines.
                     </p>
                 </div>
 

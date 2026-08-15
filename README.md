@@ -1,12 +1,12 @@
-# NovaTech — Company Profile Website
+# TechCore — Company Profile Website
 
-A responsive multi-page company profile website built with **Laravel 13** and **Tailwind CSS v4**.
+A responsive multi-page company profile website built with **Laravel 13** and **Tailwind CSS v4**, designed for the Philippine market.
 
 ---
 
 ## About the Project
 
-This project is a static-content company profile website that presents NovaTech's identity, services, and contact information across four public pages. All routing is handled through a single `CompanyController`. Every page shares a consistent layout with a reusable Navbar and Footer built as Blade components.
+This project is a static-content company profile website that presents TechCore's identity, services, and contact information across four public pages. All routing is handled through a single `CompanyController`. Every page shares a consistent layout with a reusable Navbar and Footer built as Blade components.
 
 ---
 
