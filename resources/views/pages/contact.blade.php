@@ -164,14 +164,14 @@
                     <h3 class="text-lg font-semibold text-neutral-900 mb-4">Find Us</h3>
                     <div class="rounded-xl overflow-hidden border border-neutral-100">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215573291865!2d-73.98784368459253!3d40.75773097932681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes%20Square!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.5993777988!2d121.0437!3d14.5507!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c90264a84a1b%3A0xce4c7bc1c2b30b0c!2sBonifacio%20Global%20City%2C%20Taguig%2C%20Metro%20Manila!5e0!3m2!1sen!2sph!4v1700000000000!5m2!1sen!2sph"
                             width="100%"
                             height="300"
                             style="border:0;"
                             allowfullscreen=""
                             loading="lazy"
                             referrerpolicy="no-referrer-when-downgrade"
-                            title="TechCore Office Location">
+                            title="TechCore Office — BGC, Taguig, Metro Manila">
                         </iframe>
                     </div>
                 </div>
