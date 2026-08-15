@@ -4,7 +4,14 @@
 
             {{-- Brand & About --}}
             <div>
-                <h3 class="text-xl font-bold mb-3">TechCore</h3>
+                <div class="flex items-center gap-2 mb-3">
+                    <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <rect width="32" height="32" rx="8" fill="#3b82f6"/>
+                        <path d="M8 12h16M8 16h10M8 20h13" stroke="white" stroke-width="2.5" stroke-linecap="round"/>
+                        <circle cx="24" cy="20" r="3" fill="#f59e0b"/>
+                    </svg>
+                    <h3 class="text-xl font-bold">TechCore</h3>
+                </div>
                 <p class="text-primary-200 text-sm leading-relaxed">
                     Delivering innovative technology solutions that empower Filipino businesses to grow, adapt, and lead in the digital age.
                 </p>
